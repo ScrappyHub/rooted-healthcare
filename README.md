@@ -1,11 +1,13 @@
-# rooted-healthcare
+⚠️ STATUS: PLACEHOLDER ONLY
 
-ROOTED Healthcare Vertical (Clinics, Programs, Providers)
+This vertical is NOT in production.
+No live users.
+No compliance workflows active.
+All governance, auth, and procurement logic is inherited from:
 
-Status: Framework Placeholder Only  
-This repository defines the future healthcare vertical architecture for ROOTED.  
-No production implementation is active at this time.
+→ rooted-core
 
-All discovery, geolocation, and curation logic must follow:
-- rooted-core/docs/DISCOVERY_RULES.md
-- rooted-core geo and rotation rules (once finalized)
+This repo is strictly for:
+- Architecture planning
+- Discovery rules
+- Future UI scaffolding
