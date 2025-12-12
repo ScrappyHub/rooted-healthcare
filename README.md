@@ -1,29 +1,49 @@
-## Governance Boundaries
+# ❤️ ROOTED Healthcare — Community Health, Clinics & Wellness Discovery
 
-This repository:
+A community health & wellness vertical inside the ROOTED OS.
 
-- Does NOT define roles, tiers, or access laws
-- Does NOT change database schema or RLS
-- Does NOT define Kids Mode or sanctuary rules
+## 🎯 Purpose
+ROOTED Healthcare covers:
+- Non-emergency community health  
+- Preventive care programs  
+- Mental wellness resources  
+- Clinics & public health institutions  
+- Youth-protected health education  
+- Accessibility services  
 
-All governance and access control lives in:
+ROOTED Healthcare is NOT:
+- A telemedicine platform  
+- A medical diagnostic tool  
+- A pharmaceutical advertising channel  
+- A mental health crisis replacement  
 
-→ https://github.com/.../rooted-platform
+It exists to provide **safe, accurate, non-commercial health discovery.**
 
-Any change that attempts to bypass ROOTED governance is invalid by design.
+## 🧭 Vertical Identity
+This vertical is:
+- 🩺 Non-commercial  
+- 🚫 No ads  
+- 🧒 Strict Kids Mode enforcement  
+- ⚕️ Evidence-based  
+- 🌐 Public-good oriented  
 
----
+Health information must be de-politicized and safe.
 
-⚠️ STATUS: PLACEHOLDER ONLY
+## 📁 Repository Scope
+Includes:
+- Healthcare facility UI  
+- Program & wellness listings  
+- Educational health layers  
+- Youth-safe health content  
+- Seasonal health advisories  
 
-This vertical is NOT in production.
-No live users.
-No compliance workflows active.
-All governance, auth, and procurement logic is inherited from:
+Does NOT include:
+- Medical billing  
+- Telehealth integration  
+- Schema or RLS edits  
+- Crisis services  
 
-→ rooted-core
-
-This repo is strictly for:
-- Architecture planning
-- Discovery rules
-- Future UI scaffolding
+## 🔐 Source of Authority
+Backend compliance tied to:
+- rooted-core  
+- rooted-platform/governance  
